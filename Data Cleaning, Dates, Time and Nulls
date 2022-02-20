@@ -1,4 +1,4 @@
-To learn about the following functions please view this article by Aakriti Sharma: https://medium.com/@aakriti.sharma18/data-cleaning-with-sql-eaab6d29d007
+Data Cleaning
 - cast
 - trim
 - concat
@@ -13,3 +13,6 @@ Missing Values
 Dealing with Dates
 - parsing dates
 - extract
+- date_add, 
+- date_sub
+- date_trunc
