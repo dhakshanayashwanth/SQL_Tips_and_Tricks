@@ -1,1 +1,15 @@
+To learn about the following functions please view this article by Aakriti Sharma: https://medium.com/@aakriti.sharma18/data-cleaning-with-sql-eaab6d29d007
+- cast
+- trim
+- concat
+- coalesce 
+- left / right
+- substr
+- position / strpos
 
+Missing Values
+- not null
+
+Dealing with Dates
+- parsing dates
+- extract
