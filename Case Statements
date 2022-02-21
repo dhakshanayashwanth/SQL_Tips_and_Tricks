@@ -1,0 +1,23 @@
+Table 1.A -  database: FINANCE table: REVENUE
+ 	ACCT_NUM	PRODUCT	MONTH	REVENUE
+ 	9994523	VEG	Jan	          50.00 
+ 	9994523	HOT DOG	Feb	          40.00 
+ 	9994523	VEG	Feb	          55.00 
+ 	9994523	COOKIE	Feb	          10.00 
+ 	9996984	VEG	Mar	          60.00 
+ 	9996427	 	Jan	          15.00 
+ 	9993644	HOT DOG	Feb	          35.00 
+ 	9993644	FRIES	Feb	            2.00 
+ 	9993644	HOT DOG	Mar	          40.00 
+
+Table 1.B
+ 	ACCT_NUM	PRODUCT	PROD2	MONTH	REVENUE
+ 	9994523	VEG	Vegetable	Jan	          50.00 
+ 	9994523	HOT DOG	Hot Dog	Feb	          40.00 
+ 	9994523	VEG	Vegetable	Feb	          55.00 
+ 	9994523	COOKIE	Cookie	Feb	          10.00 
+ 	9996984	VEG	Vegetable	Mar	          60.00 
+ 	9996427	 	Other	Jan	          15.00 
+ 	9993644	HOT DOG	Hot Dog	Feb	          35.00 
+ 	9993644	FRIES	Other	Feb	            2.00 
+ 	9993644	HOT DOG	Hot Dog	Mar	          40.00 
